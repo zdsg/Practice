@@ -1,1 +1,1 @@
-My app 6.53
+My app
