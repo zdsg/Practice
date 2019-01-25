@@ -1,1 +1,1 @@
-My app b1 local
+My app b1 remote
