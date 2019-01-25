@@ -1,1 +1,1 @@
-My app b1 before pull remote branch
+My app b1 remote
